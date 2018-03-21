@@ -2,6 +2,13 @@
 
 HTML5 is quickly becoming the standard in terms of front-end coding, and as a web developer you definitely need to know how to code HTML5 websites. After almost two years of HTML5 coding, I have compiled this list of my favorites "best practices" with the hope that it will be as useful to you as it is to me.
 
+## Adaptation
+These coding standards are adapted and inspired by Google, Mozilla, IBM, coding standards and modified as per organizational need and requirement.
+
+## Contents
+- HTML Coding Conventions
+- CSS Coding Conventions
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Faisalaziz/UI-UX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
